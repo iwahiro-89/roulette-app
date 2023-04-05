@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"../../node_modules/use-sound/dist/use-sound.esm.js -> howler":{id:1766,files:["static/chunks/766.e1cb3270e3ef94a9.js"]},"index.tsx -> ../component/Ordering":{id:4300,files:["static/chunks/195.5647d58cf25517dd.js","static/chunks/300.d993143096076f22.js"]}};
